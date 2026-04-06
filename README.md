@@ -15,10 +15,9 @@ Financial Wellness Score – A 0–100 score based on savings rate, goal trackin
 
 
 ## 📸 Screenshot
+<img width="1894" height="890" alt="image" src="https://github.com/user-attachments/assets/d818af8c-d86d-4b38-b026-fc83a9699883" />
 
-![MoneyMind Dashboard](<img width="1894" height="890" alt="image" src="https://github.com/user-attachments/assets/4072f928-6a77-414b-ad7f-c7366f0b2905" />
-)
-<img width="577" height="906" alt="image" src="https://github.com/user-attachments/assets/594f5665-eba4-4fab-ab1c-83f9cbe295fb" />
+<img width="554" height="892" alt="image" src="https://github.com/user-attachments/assets/da0318a6-443e-47b7-bc82-8c4f7cb01d56" />
 
 
 > Add your app screenshot in the `assets` folder and name it `moneymind-dashboard.png`.
