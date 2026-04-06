@@ -13,6 +13,25 @@ Goals Tracker – Visual progress bars, deadline tracking, and completion celebr
 
 Financial Wellness Score – A 0–100 score based on savings rate, goal tracking, transaction habits, and spending balance, with personalized tips
 
+
+## 📸 Screenshot
+
+![MoneyMind Dashboard](<img width="1894" height="890" alt="image" src="https://github.com/user-attachments/assets/4072f928-6a77-414b-ad7f-c7366f0b2905" />
+)
+<img width="577" height="906" alt="image" src="https://github.com/user-attachments/assets/594f5665-eba4-4fab-ab1c-83f9cbe295fb" />
+
+
+> Add your app screenshot in the `assets` folder and name it `moneymind-dashboard.png`.
+
+---
+
+## 🎨 Figma Design
+
+View the design file here:  
+[Finance Dashboard – Figma Community](https://www.figma.com/make/WF6OOJSgBpo8FM5XoF0Wic/Premium-Personal-Finance-App-UI?t=IH43DsmyX3Tumf4e-20&fullscreen=1&preview-route=%2Fadd-expense)
+
+<!-- Replace the link above with your own Figma file link -->
+
 🗂️ Navigation
 Section	Purpose
 Home	Monthly overview, recent activity, active goals
